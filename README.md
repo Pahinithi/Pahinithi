@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pahirathan Nithilan</h1>
-<h3 align="center">Passionate about the field of Information Technology</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pahinithi&label=Profile%20views&color=0e75b6&style=flat" alt="pahinithi" /> </p>
+<h3 align="center">I am an enthusiastic 3rd-year undergraduate at the University of Moratuwa, specializing in Business Process Management. Passionate about the field of Information Technology, </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
 <p align="left"> <a href="https://twitter.com/pahinithi" target="blank"><img src="https://img.shields.io/twitter/follow/pahinithi?logo=twitter&style=for-the-badge" alt="pahinithi" /></a> </p>
 
