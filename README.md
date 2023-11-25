@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pahirathan Nithilan</h1>
 <h3 align="center">Passionate about the field of Information Technology</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pahinithi&label=Profile%20views&color=0e75b6&style=flat" alt="pahinithi" /> </p>
 
+<p align="left"> <a href="https://twitter.com/pahinithi" target="blank"><img src="https://img.shields.io/twitter/follow/pahinithi?logo=twitter&style=for-the-badge" alt="pahinithi" /></a> </p>
 
-- 🔭 I’m currently working on **Pahirathan Nithilan**
-
-- 👯 I’m looking to collaborate on **Pahirathan Nithilan**
-
-- 🤝 I’m looking for help with **Pahirathan Nithilan**
 
 - 👨‍💻 All of my projects are available at [https://pahinithi.github.io/nithi99/](https://pahinithi.github.io/nithi99/)
 
@@ -17,9 +14,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GgHRctaTpydDSQtF0zw8cofPjNdKYK2N/view?usp=sharing](https://drive.google.com/file/d/1GgHRctaTpydDSQtF0zw8cofPjNdKYK2N/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,12 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pahinithi&show_icons=true&locale=en" alt="pahinithi" /></p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pahinithi&label=Profile%20views&color=0e75b6&style=flat" alt="pahinithi" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pahinithi&" alt="pahinithi" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pahinithi" alt="pahinithi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pahinithi" target="blank"><img src="https://img.shields.io/twitter/follow/pahinithi?logo=twitter&style=for-the-badge" alt="pahinithi" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pahinithi&" alt="pahinithi" /></p>
