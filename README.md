@@ -5,7 +5,7 @@
 
 
 
-
+<p align="left"> <a href="https://twitter.com/pahinithi" target="blank"><img src="https://img.shields.io/twitter/follow/pahinithi?logo=twitter&style=for-the-badge" alt="pahinithi" /></a> </p>
 - 👨‍💻 All of my projects are available at [https://pahinithi.github.io/nithi99/](https://pahinithi.github.io/nithi99/)
 
 - 📫 How to reach me **nithilan32@gmail.com**
