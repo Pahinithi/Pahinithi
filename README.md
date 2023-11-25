@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pahinithi&label=Profile%20views&color=0e75b6&style=flat" alt="pahinithi" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
-<p align="left"> <a href="https://twitter.com/pahinithi" target="blank"><img src="https://img.shields.io/twitter/follow/pahinithi?logo=twitter&style=for-the-badge" alt="pahinithi" /></a> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [https://pahinithi.github.io/nithi99/](https://pahinithi.github.io/nithi99/)
