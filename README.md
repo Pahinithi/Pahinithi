@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **nithilan32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GgHRctaTpydDSQtF0zw8cofPjNdKYK2N/view?usp=sharing](https://drive.google.com/file/d/1GgHRctaTpydDSQtF0zw8cofPjNdKYK2N/view?usp=sharing)
 
   
 <br>
