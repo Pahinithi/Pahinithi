@@ -13,10 +13,6 @@
 - 📝 I regularly write articles on [https://pahinithi.medium.com](https://pahinithi.medium.com)
 
 
-  ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3> <br>
