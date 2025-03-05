@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/0*nB2JiBJhQtkAPaoO.gif">
+
 - 🔭 I’m currently working on **medirai**
 
 - 👨‍💻 All of my projects are available at [https://pahinithi.github.io/nithi99](https://pahinithi.github.io/nithi99)
