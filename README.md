@@ -90,7 +90,7 @@ class Nithilan:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pahinithi/pahinithi/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> 💡 **Setup the snake:** Add [this GitHub Action](https://github.com/Platane/snk) to your repo at `.github/workflows/snake.yml`
+
 
 </div>
 
