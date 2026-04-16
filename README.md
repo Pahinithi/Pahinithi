@@ -191,7 +191,7 @@ class Nithilan:
 <br/><br/>
 
 <!-- Fun Visitor Counter -->
-<img src="https://profile-counter.glitch.me/pahinithi/count.svg" alt="visitor counter"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pahinithi&label=Profile%20views&color=0e75b6&style=flat" alt="pahinithi" /> </p>
 
 <br/>
 
